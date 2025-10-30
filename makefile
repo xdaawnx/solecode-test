@@ -4,7 +4,7 @@
 # Variables
 BINARY_NAME=user-api
 BUILD_DIR=bin
-CMD_PATH=cmd/app
+CMD_PATH=cmd
 CONFIG_PATH=configs/config.yaml
 MIGRATIONS_DIR=docs/migrations
 DOCKER_COMPOSE_FILE=docker-compose.yml

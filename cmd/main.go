@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"solecode/cmd/app/cli"
+	"solecode/cmd/cli"
 	_ "solecode/docs/swagger"
 	"solecode/pkg/cache"
 	soleCodeCache "solecode/pkg/cache"
